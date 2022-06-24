@@ -1,0 +1,14 @@
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\bin\Debug\HerenciasyObjetos.exe.config
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\bin\Debug\HerenciasyObjetos.exe
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\bin\Debug\HerenciasyObjetos.pdb
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\bin\Debug\Objetos.dll
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\bin\Debug\Objetos.pdb
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.csproj.AssemblyReference.cache
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.csproj.SuggestedBindingRedirects.cache
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.Properties.Resources.resources
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.csproj.GenerateResource.cache
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.csproj.CoreCompileInputs.cache
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.csproj.CopyComplete
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.exe
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.pdb
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\HerenciasyObjetos\obj\Debug\HerenciasyObjetos.Form1.resources

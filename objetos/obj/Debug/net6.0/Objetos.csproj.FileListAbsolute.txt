@@ -1,0 +1,12 @@
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\bin\Debug\net6.0\Objetos.deps.json
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\bin\Debug\net6.0\Objetos.dll
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\bin\Debug\net6.0\Objetos.pdb
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\Objetos.csproj.AssemblyReference.cache
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\Objetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\Objetos.AssemblyInfoInputs.cache
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\Objetos.AssemblyInfo.cs
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\Objetos.csproj.CoreCompileInputs.cache
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\Objetos.dll
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\refint\Objetos.dll
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\Objetos.pdb
+E:\Escritorio\gabi\A    utu\Programacion3\HerenciasyObjetos\objetos\obj\Debug\net6.0\ref\Objetos.dll
